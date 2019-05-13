@@ -1,7 +1,8 @@
 # Timestamping log for `diversity.zeitgitter.net`
 
 This lists all commit IDs for which
-[`diversity.zeitgitter.net`](https://diversity.zeitgitter.net) has ever issued a timestamp
+[`diversity.zeitgitter.net`](https://diversity.zeitgitter.net) (previously
+known as `diversity.enotar.ch`) has ever issued a timestamp
 signature. If there are any other signatures, please do consider them invalid.
 
 This is part of the *Zeitgitter* distributed timestamping system. Please learn more
